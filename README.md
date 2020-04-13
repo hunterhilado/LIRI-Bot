@@ -1,7 +1,7 @@
 # LIRI-Bot
 
 ## Problem 
-The app is using different node packages and api keys to look up information regarding music and movies.
+The app is using different node packages and api keys to look up information regarding music and movies. LIRI is a command line node application that takes search parameters and gives you data back.
 
 ## How to run 
 In order to use my project from Github, you must first provide your own env file for it to work properly. 
