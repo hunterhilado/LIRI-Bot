@@ -11,13 +11,16 @@
     "url": "git+https://github.com/hunterhilado/LIRI-Bot.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hunter Hilado",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hunterhilado/LIRI-Bot/issues"
   },
   "homepage": "https://github.com/hunterhilado/LIRI-Bot#readme",
   "dependencies": {
-    "dotenv": "^8.2.0"
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
   }
 }

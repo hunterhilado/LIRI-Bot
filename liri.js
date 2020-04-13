@@ -73,7 +73,7 @@ function getSongs(songName) {
 
 function getMovies(movieName) {
  
-  axios.get("http://www.omdbapi.com/?apikey=42518777&t=" + movieName)
+  axios.get(" http://www.omdbapi.com/?i=tt3896198&apikey=6996c597")
     .then(function (data) {
     
       var results = `
