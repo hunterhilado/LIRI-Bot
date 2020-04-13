@@ -39,3 +39,6 @@ NPM Packages installed:
 
 ## Running the node
 [Concert-this](https://github.com/hunterhilado/LIRI-Bot/blob/master/images/concert-this.jpg)
+[Spotify-this-song](https://github.com/hunterhilado/LIRI-Bot/blob/master/images/spotify-this-song.jpg)
+[Movie-this](https://github.com/hunterhilado/LIRI-Bot/blob/master/images/movie-this.jpg)
+[Do-what-it-says](https://github.com/hunterhilado/LIRI-Bot/blob/master/images/do-what-it-says.jpg)
